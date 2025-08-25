@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ilovegpacalculator.com/sitemap.xml
+Sitemap: https://www.jurassicwords.com/sitemap.xml
